@@ -1,0 +1,15 @@
+:root{
+    --color-background-blue:rgb(207, 226, 255);
+    --color-text-blue:rgb(5, 44, 101);
+    --color-border-blue:rgb(158, 197, 254);
+    --color-background-green:rgb(209, 231, 221);
+    --color-text-green: rgb(10, 54, 34);
+    --color-border-green:rgb(163, 207, 187);
+    --color-background-yellow:rgb(255, 243, 205);
+    --color-text-yellow:rgb(102, 77, 3);
+    --color-border-yellow:rgb(255, 230, 156);
+    --color-background-red:rgb(248, 215, 218);
+    --color-text-red:rgb(88, 21, 28);
+    --color-border-red:rgb(241, 174, 181);
+    --color-border-gray:rgb(222, 226, 230);
+}
